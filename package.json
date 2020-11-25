@@ -1,0 +1,12 @@
+{
+  "name": "backend-adonis",
+  "version": "1.0.0",
+  "description": "Criando uma REST API com Adonis",
+  "main": "index.js",
+  "scripts": {
+    "dev":"adonis serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
